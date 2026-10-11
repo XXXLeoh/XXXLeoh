@@ -2,22 +2,22 @@
 
 <!-- ① 第一行：奖杯墙（更大） -->
 <p align="center">
-  <img src="https://github-profile-trophy-flame.vercel.app/?username=loks666&theme=darkhub&title=-Reviews&v=20261011043019" alt="loks666's Trophies" width="100%" />
+  <img src="https://github-profile-trophy-flame.vercel.app/?username=loks666&theme=darkhub&title=-Reviews&v=20261012044943" alt="loks666's Trophies" width="100%" />
 </p>
 
 <!-- ② 第二行：Streak（你图里 3060 那张，缩小一些） -->
 <p align="center">
-  <img src="https://github-readme-streak-stats-delta-green.vercel.app/?user=loks666&theme=github-dark&hide_border=true&v=20261011043019" alt="loks666's GitHub Streak" width="100%" />
+  <img src="https://github-readme-streak-stats-delta-green.vercel.app/?user=loks666&theme=github-dark&hide_border=true&v=20261012044943" alt="loks666's GitHub Streak" width="100%" />
 </p>
 
 <!-- ③ 第三行：Stats（A- 那张，缩小一些） -->
 <p align="center">
-  <img src="https://github-readme-stats-phi-rouge.vercel.app/api?username=loks666&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&theme=github_dark&v=20261011043019" alt="loks666's Github Stats" width="100%" />
+  <img src="https://github-readme-stats-phi-rouge.vercel.app/api?username=loks666&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&theme=github_dark&v=20261012044943" alt="loks666's Github Stats" width="100%" />
 </p>
 
 <!-- 活跃度图 -->
 <p align="center">
-  <img src="https://github-readme-activity-graph-indol-phi.vercel.app/graph?username=loks666&theme=github&v=20261011043019" width="100%" />
+  <img src="https://github-readme-activity-graph-indol-phi.vercel.app/graph?username=loks666&theme=github&v=20261012044943" width="100%" />
 </p>
 
 <!-- 动态技术栈：Java / Python / Go / Rust / LLM 与全栈部署 -->
@@ -51,9 +51,9 @@
 ## Top Projects
 |Project|Description|Stars|
 |:--|:--|:--|
-|[get_jobs](https://github.com/loks666/get_jobs)|💼【AI找工作助手】全平台自动投简历脚本：(boss、前程无忧、猎聘、智联招聘)|`8802⭐`|
+|[get_jobs](https://github.com/loks666/get_jobs)|💼【AI找工作助手】全平台自动投简历脚本：(boss、前程无忧、猎聘、智联招聘)|`8815⭐`|
 |[anyrouter-autolog (fork)](https://github.com/loks666/anyrouter-autolog)|🤖AnyRouter多账号签到。|`93⭐`|
-|[idm_crack](https://github.com/loks666/idm_crack)|This is a repository for backing up idm crack files，这是一个备份IDM破解文件的仓库|`42⭐`|
+|[idm_crack](https://github.com/loks666/idm_crack)|This is a repository for backing up idm crack files，这是一个备份IDM破解文件的仓库|`43⭐`|
 |[niubaide_im](https://github.com/loks666/niubaide_im)|牛掰的即时通讯(Uniapp + SpringBoot + Netty)|`33⭐`|
 |[webchat](https://github.com/loks666/webchat)|一个聊天应用|`24⭐`|
 |[disease-prediction](https://github.com/loks666/disease-prediction)|疾病预测分析系统旨在利用现代数据分析技术和机器学习算法，帮助医疗机构和研究人员对疾病的发生和发展进行预测和分析，从而提高疾病防控和治疗的效率。该系统主要包括数据收集与处理、模型训练与评估、以及预测结果展示等模块。|`19⭐`|
@@ -66,7 +66,7 @@
 ## Recent Updates
 |Project|Description|Last Update|
 |:--|:--|:--|
-|[loks666](https://github.com/loks666/loks666)|自动化统计你的github数据并更新描述文件|![2026-10-10 20:06:18](https://img.shields.io/badge/2026--10--10-20%3A06%3A18-brightgreen?style=flat-square)|
+|[loks666](https://github.com/loks666/loks666)|自动化统计你的github数据并更新描述文件|![2026-10-11 20:20:46](https://img.shields.io/badge/2026--10--11-20%3A20%3A46-brightgreen?style=flat-square)|
 |[get_jobs](https://github.com/loks666/get_jobs)|💼【AI找工作助手】全平台自动投简历脚本：(boss、前程无忧、猎聘、智联招聘)|![2026-10-10 09:51:15](https://img.shields.io/badge/2026--10--10-09%3A51%3A15-brightgreen?style=flat-square)|
 |[FlyAI](https://github.com/loks666/FlyAI)|微信群聊统计助手，用于AI统计群聊内各项数据与信息推送|![2026-10-10 06:56:51](https://img.shields.io/badge/2026--10--10-06%3A56%3A51-brightgreen?style=flat-square)|
 |[geme-plug](https://github.com/loks666/geme-plug)|geme smart plug|![2026-09-29 07:22:17](https://img.shields.io/badge/2026--09--29-07%3A22%3A17-brightgreen?style=flat-square)|
@@ -78,4 +78,4 @@
 |[codex (fork)](https://github.com/loks666/codex)|Lightweight coding agent that runs in your terminal|![2026-08-24 06:41:28](https://img.shields.io/badge/2026--08--24-06%3A41%3A28-brightgreen?style=flat-square)|
 
 
-*Last updated on: 2026-10-11 04:30:19*
+*Last updated on: 2026-10-12 04:49:43*
