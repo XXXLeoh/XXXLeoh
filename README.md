@@ -2,22 +2,22 @@
 
 <!-- ① 第一行：奖杯墙（更大） -->
 <p align="center">
-  <img src="https://github-profile-trophy-flame.vercel.app/?username=loks666&theme=darkhub&title=-Reviews&v=20261014054519" alt="loks666's Trophies" width="100%" />
+  <img src="https://github-profile-trophy-flame.vercel.app/?username=loks666&theme=darkhub&title=-Reviews&v=20261015042934" alt="loks666's Trophies" width="100%" />
 </p>
 
 <!-- ② 第二行：Streak（你图里 3060 那张，缩小一些） -->
 <p align="center">
-  <img src="https://github-readme-streak-stats-delta-green.vercel.app/?user=loks666&theme=github-dark&hide_border=true&v=20261014054519" alt="loks666's GitHub Streak" width="100%" />
+  <img src="https://github-readme-streak-stats-delta-green.vercel.app/?user=loks666&theme=github-dark&hide_border=true&v=20261015042934" alt="loks666's GitHub Streak" width="100%" />
 </p>
 
 <!-- ③ 第三行：Stats（A- 那张，缩小一些） -->
 <p align="center">
-  <img src="https://github-readme-stats-phi-rouge.vercel.app/api?username=loks666&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&theme=github_dark&v=20261014054519" alt="loks666's Github Stats" width="100%" />
+  <img src="https://github-readme-stats-phi-rouge.vercel.app/api?username=loks666&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&theme=github_dark&v=20261015042934" alt="loks666's Github Stats" width="100%" />
 </p>
 
 <!-- 活跃度图 -->
 <p align="center">
-  <img src="https://github-readme-activity-graph-indol-phi.vercel.app/graph?username=loks666&theme=github&v=20261014054519" width="100%" />
+  <img src="https://github-readme-activity-graph-indol-phi.vercel.app/graph?username=loks666&theme=github&v=20261015042934" width="100%" />
 </p>
 
 <!-- 动态技术栈：Java / Python / Go / Rust / LLM 与全栈部署 -->
@@ -51,23 +51,23 @@
 ## Top Projects
 |Project|Description|Stars|
 |:--|:--|:--|
-|[get_jobs](https://github.com/loks666/get_jobs)|💼【AI找工作助手】全平台自动投简历脚本：(boss、前程无忧、猎聘、智联招聘)|`8863⭐`|
+|[get_jobs](https://github.com/loks666/get_jobs)|💼【AI找工作助手】全平台自动投简历脚本：(boss、前程无忧、猎聘、智联招聘)|`8889⭐`|
 |[anyrouter-autolog (fork)](https://github.com/loks666/anyrouter-autolog)|🤖AnyRouter多账号签到。|`93⭐`|
 |[idm_crack](https://github.com/loks666/idm_crack)|This is a repository for backing up idm crack files，这是一个备份IDM破解文件的仓库|`43⭐`|
 |[niubaide_im](https://github.com/loks666/niubaide_im)|牛掰的即时通讯(Uniapp + SpringBoot + Netty)|`33⭐`|
 |[webchat](https://github.com/loks666/webchat)|一个聊天应用|`24⭐`|
 |[disease-prediction](https://github.com/loks666/disease-prediction)|疾病预测分析系统旨在利用现代数据分析技术和机器学习算法，帮助医疗机构和研究人员对疾病的发生和发展进行预测和分析，从而提高疾病防控和治疗的效率。该系统主要包括数据收集与处理、模型训练与评估、以及预测结果展示等模块。|`19⭐`|
 |[ruyun_library](https://github.com/loks666/ruyun_library)|【如云图书馆】基于Django框架+Mysql开发的图书管理系统|`11⭐`|
+|[FinancialMachineLearning](https://github.com/loks666/FinancialMachineLearning)|该项目利用资本资产定价模型（CAPM）和均值方差优化（MVO），通过二次规划来构建最优投资组合，以最小化风险并最大化收益。|`8⭐`|
 |[chatgpt-on-wechat (fork)](https://github.com/loks666/chatgpt-on-wechat)|Wechat robot based on ChatGPT,  which using OpenAI api and itchat library. 使用大模型搭建微信聊天机器人，基于 GPT3.5/GPT4.0/Claude/文心一言/讯飞星火/通义千问/Gemini/LinkAI，支持个人微信、公众号、企业微信、飞书部署，能处理文本、语音和图片，访问操作系统和互联网，支持基于知识库定制专属机器人。|`8⭐`|
 |[NewsRecommends](https://github.com/loks666/NewsRecommends)|通过Python实现新浪新闻的爬取，可爬取新闻页面上的标题、文本、图片、视频链接（保留排版） 推荐算法：权重衰减+标签推荐+区域推荐+热点推荐|`7⭐`|
-|[FinancialMachineLearning](https://github.com/loks666/FinancialMachineLearning)|该项目利用资本资产定价模型（CAPM）和均值方差优化（MVO），通过二次规划来构建最优投资组合，以最小化风险并最大化收益。|`7⭐`|
 
 
 ## Recent Updates
 |Project|Description|Last Update|
 |:--|:--|:--|
-|[loks666](https://github.com/loks666/loks666)|自动化统计你的github数据并更新描述文件|![2026-10-13 21:18:53](https://img.shields.io/badge/2026--10--13-21%3A18%3A53-brightgreen?style=flat-square)|
-|[get_jobs](https://github.com/loks666/get_jobs)|💼【AI找工作助手】全平台自动投简历脚本：(boss、前程无忧、猎聘、智联招聘)|![2026-10-13 05:32:09](https://img.shields.io/badge/2026--10--13-05%3A32%3A09-brightgreen?style=flat-square)|
+|[loks666](https://github.com/loks666/loks666)|自动化统计你的github数据并更新描述文件|![2026-10-14 20:13:31](https://img.shields.io/badge/2026--10--14-20%3A13%3A31-brightgreen?style=flat-square)|
+|[get_jobs](https://github.com/loks666/get_jobs)|💼【AI找工作助手】全平台自动投简历脚本：(boss、前程无忧、猎聘、智联招聘)|![2026-10-14 02:37:45](https://img.shields.io/badge/2026--10--14-02%3A37%3A45-brightgreen?style=flat-square)|
 |[FlyAI](https://github.com/loks666/FlyAI)|微信群聊统计助手，用于AI统计群聊内各项数据与信息推送|![2026-10-10 06:56:51](https://img.shields.io/badge/2026--10--10-06%3A56%3A51-brightgreen?style=flat-square)|
 |[geme-plug](https://github.com/loks666/geme-plug)|geme smart plug|![2026-09-29 07:22:17](https://img.shields.io/badge/2026--09--29-07%3A22%3A17-brightgreen?style=flat-square)|
 |[anyrouter-autolog (fork)](https://github.com/loks666/anyrouter-autolog)|🤖AnyRouter多账号签到。|![2026-09-09 07:26:56](https://img.shields.io/badge/2026--09--09-07%3A26%3A56-brightgreen?style=flat-square)|
@@ -78,4 +78,4 @@
 |[codex (fork)](https://github.com/loks666/codex)|Lightweight coding agent that runs in your terminal|![2026-08-24 06:41:28](https://img.shields.io/badge/2026--08--24-06%3A41%3A28-brightgreen?style=flat-square)|
 
 
-*Last updated on: 2026-10-14 05:45:19*
+*Last updated on: 2026-10-15 04:29:34*
