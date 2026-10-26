@@ -2,44 +2,42 @@
 
 <!-- ① 第一行：奖杯墙（更大） -->
 <p align="center">
-  <img src="https://github-profile-trophy-flame.vercel.app/?username=XXXLeoh&theme=darkhub&title=-Reviews&v=20261026165207" alt="XXXLeoh's Trophies" width="100%" />
+  <img src="https://github-profile-trophy-flame.vercel.app/?username=XXXLeoh&theme=darkhub&title=-Reviews&v=20261027051801" alt="XXXLeoh's Trophies" width="100%" />
 </p>
 
 <!-- ② 第二行：Streak（你图里 3060 那张，缩小一些） -->
 <p align="center">
-  <img src="https://github-readme-streak-stats-delta-green.vercel.app/?user=XXXLeoh&theme=github-dark&hide_border=true&v=20261026165207" alt="XXXLeoh's GitHub Streak" width="100%" />
+  <img src="https://github-readme-streak-stats-delta-green.vercel.app/?user=XXXLeoh&theme=github-dark&hide_border=true&v=20261027051801" alt="XXXLeoh's GitHub Streak" width="100%" />
 </p>
 
 <!-- ③ 第三行：Stats（A- 那张，缩小一些） -->
 <p align="center">
-  <img src="https://github-readme-stats-phi-rouge.vercel.app/api?username=XXXLeoh&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&theme=github_dark&v=20261026165207" alt="XXXLeoh's Github Stats" width="100%" />
+  <img src="https://github-readme-stats-phi-rouge.vercel.app/api?username=XXXLeoh&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&theme=github_dark&v=20261027051801" alt="XXXLeoh's Github Stats" width="100%" />
 </p>
 
 <!-- 活跃度图 -->
 <p align="center">
-  <img src="https://github-readme-activity-graph-indol-phi.vercel.app/graph?username=XXXLeoh&theme=github&v=20261026165207" width="100%" />
+  <img src="https://github-readme-activity-graph-indol-phi.vercel.app/graph?username=XXXLeoh&theme=github&v=20261027051801" width="100%" />
 </p>
 
 <!-- 动态技术栈：Java / Python / Go / Rust / LLM 与全栈部署 -->
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="Js" width="7.7%" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="Ts" width="7.7%" />
-  <!-- <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" title="React" width="7.7%" /> -->
-  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" title="Nginx" width="7.7%" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" title="Java" width="7.7%" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" title="Python" width="7.7%" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" title="MySQL" width="7.7%" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" title="Docker" width="7.7%" />
-  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" title="Kubernetes" width="7.7%" />
-  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" width="7.7%" />
-  <!-- <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="Github" width="7.7%" /> -->
   <img src="assets/animated/go.svg" alt="Go" title="Go" width="7.7%" />
   <img src="assets/animated/rust.svg" alt="Rust" title="Rust" width="7.7%" />
   <img src="assets/animated/llm.svg" alt="LLM" title="LLM" width="7.7%" />
   <img src="assets/animated/pytorch.svg" alt="PyTorch" title="PyTorch" width="7.7%" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" title="React" width="7.7%" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" title="Docker" width="7.7%" />
+  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" title="Kubernetes" width="7.7%" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" title="MySQL" width="7.7%" />
+  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" title="Nginx" width="7.7%" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" title="REST API" width="7.7%" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxtjs,react,nodejs,md,python,electron,anaconda,npm,kubernetes,fastapi,express,lua,docker,git,github,linux,nginx,mysql,sqlite,githubactions,heroku,pinia,notion,vscode,figma" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,go,py,html,css,js,nodejs,java,md,pytorch,tensorflow,flask,fastapi,express,qt,react,cmake,docker,git,linux,nginx,mysql,redis,sqlite,githubactions,heroku,vercel,visualstudio,vscode" alt="skills" />
 </p>
 
 <!-- 炸弹人贡献图，每日自动更新 -->
@@ -68,7 +66,7 @@
 ## Recent Updates
 |Project|Description|Last Update|
 |:--|:--|:--|
-|[XXXLeoh (fork)](https://github.com/XXXLeoh/XXXLeoh)|自动化统计你的github数据并更新描述文件|![2026-10-25 19:27:48](https://img.shields.io/badge/2026--10--25-19%3A27%3A48-brightgreen?style=flat-square)|
+|[XXXLeoh (fork)](https://github.com/XXXLeoh/XXXLeoh)|自动化统计你的github数据并更新描述文件|![2026-10-26 21:01:40](https://img.shields.io/badge/2026--10--26-21%3A01%3A40-brightgreen?style=flat-square)|
 |[text-to-graph](https://github.com/XXXLeoh/text-to-graph)||![2025-03-31 06:42:42](https://img.shields.io/badge/2025--03--31-06%3A42%3A42-brightgreen?style=flat-square)|
 |[cloudImage](https://github.com/XXXLeoh/cloudImage)||![2025-03-03 09:52:54](https://img.shields.io/badge/2025--03--03-09%3A52%3A54-brightgreen?style=flat-square)|
 |[react-ts-demo](https://github.com/XXXLeoh/react-ts-demo)||![2025-02-20 11:57:08](https://img.shields.io/badge/2025--02--20-11%3A57%3A08-brightgreen?style=flat-square)|
@@ -80,4 +78,4 @@
 |[second-hand-market](https://github.com/XXXLeoh/second-hand-market)||![2021-07-07 03:12:38](https://img.shields.io/badge/2021--07--07-03%3A12%3A38-brightgreen?style=flat-square)|
 
 
-*Last updated on: 2026-10-26 16:52:07*
+*Last updated on: 2026-10-27 05:18:01*
