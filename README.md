@@ -2,22 +2,22 @@
 
 <!-- ① 第一行：奖杯墙（更大） -->
 <p align="center">
-  <img src="https://github-profile-trophy-flame.vercel.app/?username=loks666&theme=darkhub&title=-Reviews&v=20261026032747" alt="loks666's Trophies" width="100%" />
+  <img src="https://github-profile-trophy-flame.vercel.app/?username=XXXLeoh&theme=darkhub&title=-Reviews&v=20261026165207" alt="XXXLeoh's Trophies" width="100%" />
 </p>
 
 <!-- ② 第二行：Streak（你图里 3060 那张，缩小一些） -->
 <p align="center">
-  <img src="https://github-readme-streak-stats-delta-green.vercel.app/?user=loks666&theme=github-dark&hide_border=true&v=20261026032747" alt="loks666's GitHub Streak" width="100%" />
+  <img src="https://github-readme-streak-stats-delta-green.vercel.app/?user=XXXLeoh&theme=github-dark&hide_border=true&v=20261026165207" alt="XXXLeoh's GitHub Streak" width="100%" />
 </p>
 
 <!-- ③ 第三行：Stats（A- 那张，缩小一些） -->
 <p align="center">
-  <img src="https://github-readme-stats-phi-rouge.vercel.app/api?username=loks666&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&theme=github_dark&v=20261026032747" alt="loks666's Github Stats" width="100%" />
+  <img src="https://github-readme-stats-phi-rouge.vercel.app/api?username=XXXLeoh&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&theme=github_dark&v=20261026165207" alt="XXXLeoh's Github Stats" width="100%" />
 </p>
 
 <!-- 活跃度图 -->
 <p align="center">
-  <img src="https://github-readme-activity-graph-indol-phi.vercel.app/graph?username=loks666&theme=github&v=20261026032747" width="100%" />
+  <img src="https://github-readme-activity-graph-indol-phi.vercel.app/graph?username=XXXLeoh&theme=github&v=20261026165207" width="100%" />
 </p>
 
 <!-- 动态技术栈：Java / Python / Go / Rust / LLM 与全栈部署 -->
@@ -43,39 +43,39 @@
 <!-- 炸弹人贡献图，每日自动更新 -->
 <h3>💣 炸弹人</h3>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/loks666/loks666/bomberman-output/bomberman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/loks666/loks666/bomberman-output/bomberman-contribution-graph.svg">
-  <img alt="炸弹人贡献图动画" src="https://raw.githubusercontent.com/loks666/loks666/bomberman-output/bomberman-contribution-graph.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XXXLeoh/XXXLeoh/bomberman-output/bomberman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/XXXLeoh/XXXLeoh/bomberman-output/bomberman-contribution-graph.svg">
+  <img alt="炸弹人贡献图动画" src="https://raw.githubusercontent.com/XXXLeoh/XXXLeoh/bomberman-output/bomberman-contribution-graph.svg" width="100%" />
 </picture>
 
 ## Top Projects
 |Project|Description|Stars|
 |:--|:--|:--|
-|[get_jobs](https://github.com/loks666/get_jobs)|💼【AI找工作助手】全平台自动投简历脚本：(boss、前程无忧、猎聘、智联招聘)|`9220⭐`|
-|[anyrouter-autolog (fork)](https://github.com/loks666/anyrouter-autolog)|🤖AnyRouter多账号签到。|`93⭐`|
-|[idm_crack](https://github.com/loks666/idm_crack)|This is a repository for backing up idm crack files，这是一个备份IDM破解文件的仓库|`43⭐`|
-|[niubaide_im](https://github.com/loks666/niubaide_im)|牛掰的即时通讯(Uniapp + SpringBoot + Netty)|`33⭐`|
-|[webchat](https://github.com/loks666/webchat)|一个聊天应用|`24⭐`|
-|[disease-prediction](https://github.com/loks666/disease-prediction)|疾病预测分析系统旨在利用现代数据分析技术和机器学习算法，帮助医疗机构和研究人员对疾病的发生和发展进行预测和分析，从而提高疾病防控和治疗的效率。该系统主要包括数据收集与处理、模型训练与评估、以及预测结果展示等模块。|`19⭐`|
-|[ruyun_library](https://github.com/loks666/ruyun_library)|【如云图书馆】基于Django框架+Mysql开发的图书管理系统|`11⭐`|
-|[FinancialMachineLearning](https://github.com/loks666/FinancialMachineLearning)|该项目利用资本资产定价模型（CAPM）和均值方差优化（MVO），通过二次规划来构建最优投资组合，以最小化风险并最大化收益。|`8⭐`|
-|[chatgpt-on-wechat (fork)](https://github.com/loks666/chatgpt-on-wechat)|Wechat robot based on ChatGPT,  which using OpenAI api and itchat library. 使用大模型搭建微信聊天机器人，基于 GPT3.5/GPT4.0/Claude/文心一言/讯飞星火/通义千问/Gemini/LinkAI，支持个人微信、公众号、企业微信、飞书部署，能处理文本、语音和图片，访问操作系统和互联网，支持基于知识库定制专属机器人。|`8⭐`|
-|[NewsRecommends](https://github.com/loks666/NewsRecommends)|通过Python实现新浪新闻的爬取，可爬取新闻页面上的标题、文本、图片、视频链接（保留排版） 推荐算法：权重衰减+标签推荐+区域推荐+热点推荐|`7⭐`|
+|[XXXLeoh (fork)](https://github.com/XXXLeoh/XXXLeoh)|自动化统计你的github数据并更新描述文件|`0⭐`|
+|[text-to-graph](https://github.com/XXXLeoh/text-to-graph)||`0⭐`|
+|[cloudImage](https://github.com/XXXLeoh/cloudImage)||`0⭐`|
+|[react-ts-demo](https://github.com/XXXLeoh/react-ts-demo)||`0⭐`|
+|[chinese-independent-developer (fork)](https://github.com/XXXLeoh/chinese-independent-developer)|👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么|`0⭐`|
+|[second-hand-market](https://github.com/XXXLeoh/second-hand-market)||`0⭐`|
+|[studyMaterial](https://github.com/XXXLeoh/studyMaterial)||`0⭐`|
+|[FE-interview (fork)](https://github.com/XXXLeoh/FE-interview)|收集的前端面试题和答案|`0⭐`|
+|[jingdong](https://github.com/XXXLeoh/jingdong)||`0⭐`|
+|[fucking-frontend (fork)](https://github.com/XXXLeoh/fucking-frontend)|干爆前端。一网打尽前端面试、学习路径、优秀好文等各类内容，帮助大家一年内拿到期望的 offer！|`0⭐`|
 
 
 ## Recent Updates
 |Project|Description|Last Update|
 |:--|:--|:--|
-|[loks666](https://github.com/loks666/loks666)|自动化统计你的github数据并更新描述文件|![2026-10-25 19:05:24](https://img.shields.io/badge/2026--10--25-19%3A05%3A24-brightgreen?style=flat-square)|
-|[get_jobs](https://github.com/loks666/get_jobs)|💼【AI找工作助手】全平台自动投简历脚本：(boss、前程无忧、猎聘、智联招聘)|![2026-10-22 04:34:16](https://img.shields.io/badge/2026--10--22-04%3A34%3A16-brightgreen?style=flat-square)|
-|[loks666.github.io](https://github.com/loks666/loks666.github.io)|this is my bolg|![2026-10-15 08:00:22](https://img.shields.io/badge/2026--10--15-08%3A00%3A22-brightgreen?style=flat-square)|
-|[js.org (fork)](https://github.com/loks666/js.org)|Dedicated to JavaScript and its awesome community since 2015|![2026-10-15 07:31:39](https://img.shields.io/badge/2026--10--15-07%3A31%3A39-brightgreen?style=flat-square)|
-|[FlyAI](https://github.com/loks666/FlyAI)|微信群聊统计助手，用于AI统计群聊内各项数据与信息推送|![2026-10-10 06:56:51](https://img.shields.io/badge/2026--10--10-06%3A56%3A51-brightgreen?style=flat-square)|
-|[geme-plug](https://github.com/loks666/geme-plug)|geme smart plug|![2026-09-29 07:22:17](https://img.shields.io/badge/2026--09--29-07%3A22%3A17-brightgreen?style=flat-square)|
-|[anyrouter-autolog (fork)](https://github.com/loks666/anyrouter-autolog)|🤖AnyRouter多账号签到。|![2026-09-09 07:26:56](https://img.shields.io/badge/2026--09--09-07%3A26%3A56-brightgreen?style=flat-square)|
-|[idm_crack](https://github.com/loks666/idm_crack)|This is a repository for backing up idm crack files，这是一个备份IDM破解文件的仓库|![2026-09-09 05:04:20](https://img.shields.io/badge/2026--09--09-05%3A04%3A20-brightgreen?style=flat-square)|
-|[jiuzhang-sdk](https://github.com/JiuZhangLiangZi/jiuzhang-sdk)|用于光量子计算系统的开发SDK，支持量子线路构建、仿真、控制与硬件执行的一体化开发。|![2026-09-08 07:01:42](https://img.shields.io/badge/2026--09--08-07%3A01%3A42-brightgreen?style=flat-square)|
-|[WeChatVault](https://github.com/loks666/WeChatVault)|PC端微信数据库工具，微信聊天记录一键导出，exe一键命令执行|![2026-08-29 10:08:11](https://img.shields.io/badge/2026--08--29-10%3A08%3A11-brightgreen?style=flat-square)|
+|[XXXLeoh (fork)](https://github.com/XXXLeoh/XXXLeoh)|自动化统计你的github数据并更新描述文件|![2026-10-25 19:27:48](https://img.shields.io/badge/2026--10--25-19%3A27%3A48-brightgreen?style=flat-square)|
+|[text-to-graph](https://github.com/XXXLeoh/text-to-graph)||![2025-03-31 06:42:42](https://img.shields.io/badge/2025--03--31-06%3A42%3A42-brightgreen?style=flat-square)|
+|[cloudImage](https://github.com/XXXLeoh/cloudImage)||![2025-03-03 09:52:54](https://img.shields.io/badge/2025--03--03-09%3A52%3A54-brightgreen?style=flat-square)|
+|[react-ts-demo](https://github.com/XXXLeoh/react-ts-demo)||![2025-02-20 11:57:08](https://img.shields.io/badge/2025--02--20-11%3A57%3A08-brightgreen?style=flat-square)|
+|[chinese-independent-developer (fork)](https://github.com/XXXLeoh/chinese-independent-developer)|👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么|![2024-04-30 07:56:33](https://img.shields.io/badge/2024--04--30-07%3A56%3A33-brightgreen?style=flat-square)|
+|[jingdong](https://github.com/XXXLeoh/jingdong)||![2021-12-07 09:31:54](https://img.shields.io/badge/2021--12--07-09%3A31%3A54-brightgreen?style=flat-square)|
+|[fucking-frontend (fork)](https://github.com/XXXLeoh/fucking-frontend)|干爆前端。一网打尽前端面试、学习路径、优秀好文等各类内容，帮助大家一年内拿到期望的 offer！|![2021-09-29 05:57:42](https://img.shields.io/badge/2021--09--29-05%3A57%3A42-brightgreen?style=flat-square)|
+|[SS-Rule-Snippet (fork)](https://github.com/XXXLeoh/SS-Rule-Snippet)|搜集、整理、维护 Surge / Quantumult (X) / Shadowrocket / Surfboard / clash (Premium) 实用规则。|![2021-08-16 12:57:19](https://img.shields.io/badge/2021--08--16-12%3A57%3A19-brightgreen?style=flat-square)|
+|[listen1 (fork)](https://github.com/XXXLeoh/listen1)|one for all free music in china (origin edition)|![2021-08-02 15:04:04](https://img.shields.io/badge/2021--08--02-15%3A04%3A04-brightgreen?style=flat-square)|
+|[second-hand-market](https://github.com/XXXLeoh/second-hand-market)||![2021-07-07 03:12:38](https://img.shields.io/badge/2021--07--07-03%3A12%3A38-brightgreen?style=flat-square)|
 
 
-*Last updated on: 2026-10-26 03:27:47*
+*Last updated on: 2026-10-26 16:52:07*
