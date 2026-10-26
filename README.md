@@ -37,7 +37,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,go,py,html,css,js,nodejs,java,md,pytorch,tensorflow,flask,fastapi,express,qt,react,cmake,docker,git,linux,nginx,mysql,redis,sqlite,githubactions,heroku,vercel,visualstudio,vscode" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxtjs,react,nodejs,md,python,electron,anaconda,npm,kubernetes,fastapi,express,lua,docker,git,github,linux,nginx,mysql,sqlite,githubactions,heroku,pinia,notion,vscode,figma" alt="skills" />
 </p>
 
 <!-- 炸弹人贡献图，每日自动更新 -->
