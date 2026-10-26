@@ -24,7 +24,6 @@
 <p align="center">
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="Js" width="7.7%" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="Ts" width="7.7%" />
-  <img src="https://techstack-generator.vercel.app/vue-icon.svg" alt="Vue" title="React" width="7.7%" />
   <!-- <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" title="React" width="7.7%" /> -->
   <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" title="Nginx" width="7.7%" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" title="Python" width="7.7%" />
