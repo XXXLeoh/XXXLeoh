@@ -2,22 +2,22 @@
 
 <!-- ① 第一行：奖杯墙（更大） -->
 <p align="center">
-  <img src="https://github-profile-trophy-flame.vercel.app/?username=XXXLeoh&theme=darkhub&title=-Reviews&v=20261029052910" alt="XXXLeoh's Trophies" width="100%" />
+  <img src="https://github-profile-trophy-flame.vercel.app/?username=XXXLeoh&theme=darkhub&title=-Reviews&v=20261030053025" alt="XXXLeoh's Trophies" width="100%" />
 </p>
 
 <!-- ② 第二行：Streak（你图里 3060 那张，缩小一些） -->
 <p align="center">
-  <img src="https://github-readme-streak-stats-delta-green.vercel.app/?user=XXXLeoh&theme=github-dark&hide_border=true&v=20261029052910" alt="XXXLeoh's GitHub Streak" width="100%" />
+  <img src="https://github-readme-streak-stats-delta-green.vercel.app/?user=XXXLeoh&theme=github-dark&hide_border=true&v=20261030053025" alt="XXXLeoh's GitHub Streak" width="100%" />
 </p>
 
 <!-- ③ 第三行：Stats（A- 那张，缩小一些） -->
 <p align="center">
-  <img src="https://github-readme-stats-phi-rouge.vercel.app/api?username=XXXLeoh&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&theme=github_dark&v=20261029052910" alt="XXXLeoh's Github Stats" width="100%" />
+  <img src="https://github-readme-stats-phi-rouge.vercel.app/api?username=XXXLeoh&show_icons=true&include_all_commits=true&count_private=false&hide_border=true&theme=github_dark&v=20261030053025" alt="XXXLeoh's Github Stats" width="100%" />
 </p>
 
 <!-- 活跃度图 -->
 <p align="center">
-  <img src="https://github-readme-activity-graph-indol-phi.vercel.app/graph?username=XXXLeoh&theme=github&v=20261029052910" width="100%" />
+  <img src="https://github-readme-activity-graph-indol-phi.vercel.app/graph?username=XXXLeoh&theme=github&v=20261030053025" width="100%" />
 </p>
 
 <!-- 动态技术栈：Java / Python / Go / Rust / LLM 与全栈部署 -->
@@ -66,7 +66,7 @@
 ## Recent Updates
 |Project|Description|Last Update|
 |:--|:--|:--|
-|[XXXLeoh (fork)](https://github.com/XXXLeoh/XXXLeoh)|自动化统计你的github数据并更新描述文件|![2026-10-28 21:06:46](https://img.shields.io/badge/2026--10--28-21%3A06%3A46-brightgreen?style=flat-square)|
+|[XXXLeoh (fork)](https://github.com/XXXLeoh/XXXLeoh)|自动化统计你的github数据并更新描述文件|![2026-10-29 21:08:15](https://img.shields.io/badge/2026--10--29-21%3A08%3A15-brightgreen?style=flat-square)|
 |[text-to-graph](https://github.com/XXXLeoh/text-to-graph)||![2025-03-31 06:42:42](https://img.shields.io/badge/2025--03--31-06%3A42%3A42-brightgreen?style=flat-square)|
 |[cloudImage](https://github.com/XXXLeoh/cloudImage)||![2025-03-03 09:52:54](https://img.shields.io/badge/2025--03--03-09%3A52%3A54-brightgreen?style=flat-square)|
 |[react-ts-demo](https://github.com/XXXLeoh/react-ts-demo)||![2025-02-20 11:57:08](https://img.shields.io/badge/2025--02--20-11%3A57%3A08-brightgreen?style=flat-square)|
@@ -78,4 +78,4 @@
 |[second-hand-market](https://github.com/XXXLeoh/second-hand-market)||![2021-07-07 03:12:38](https://img.shields.io/badge/2021--07--07-03%3A12%3A38-brightgreen?style=flat-square)|
 
 
-*Last updated on: 2026-10-29 05:29:10*
+*Last updated on: 2026-10-30 05:30:25*
